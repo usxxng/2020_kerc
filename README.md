@@ -1,4 +1,4 @@
-# Kagglem Competition 2020_kerc
+# Kaggle Competition 2020_kerc
 ## 2020 Korean Emotion Recognition Challenge
 [\[Competition Page\]](https://www.kaggle.com/c/2020kerc/overview)
 ![poster](./img/kerc_poster.jpg)
@@ -7,7 +7,7 @@
 ### Private Leaderboard Score : 0.96578 (Bronze Medal Award)
 [\[Solution\]](./kerc2020_solution_HouKM_동상.pdf)
 
-<br><br>
+<br><br><br>
 
 ***Enviroment Setup:
 
